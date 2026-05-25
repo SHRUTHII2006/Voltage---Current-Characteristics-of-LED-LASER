@@ -39,18 +39,16 @@ Key points:
 
 ## TABULATION
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
+<img width="1007" height="1600" alt="WhatsApp Image 2026-05-25 at 14 15 44" src="https://github.com/user-attachments/assets/7b330ac0-5010-42f1-b02c-f49bfefb406e" />
 
----
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
 
----
+<img width="1245" height="1600" alt="WhatsApp Image 2026-05-25 at 14 18 35" src="https://github.com/user-attachments/assets/58ccf34b-abdf-478d-8d4d-b54fedfcf10f" />
+
+<img width="1130" height="1457" alt="WhatsApp Image 2026-05-25 at 14 18 36" src="https://github.com/user-attachments/assets/58cf938a-84e4-4b84-bd78-019d347f9d34" />
+
+
 
 ## RESULT
 - The IV characteristics of the fiber optic LED were studied.  
